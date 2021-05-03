@@ -1,0 +1,215 @@
+{
+    "Actor": 
+    {
+        "types": 
+        [
+            "character",
+            "npc",
+            "monster"
+        ],
+        "templates":
+        {
+            "mainProfile":
+            {
+                "ws":
+                {
+                    "type": "number",
+                    "label": "mainProfile.WS",
+                    "starting": 0,
+                    "talents": 0,
+                    "career": 0,
+                    "advance": 0,
+                    "modifier" : 0, 
+                    "current": 0
+                },
+                "bs":
+                {
+                    "type": "number",
+                    "label": "mainProfile.BS",
+                    "starting": 0,
+                    "talents": 0,
+                    "career": 0,
+                    "advance": 0,
+                    "modifier" : 0, 
+                    "current": 0
+                },
+                "s":
+                {
+                    "type": "number",
+                    "label": "mainProfile.S",
+                    "starting": 0,
+                    "talents": 0,
+                    "career": 0,
+                    "advance": 0,
+                    "modifier" : 0, 
+                    "current": 0
+                },
+                "t":
+                {
+                    "type": "number",
+                    "label": "mainProfile.T",
+                    "starting": 0,
+                    "talents": 0,
+                    "career": 0,
+                    "advance": 0,
+                    "modifier" : 0, 
+                    "current": 0
+                },
+                "ag":
+                {
+                    "type": "number",
+                    "label": "mainProfile.AG",
+                    "starting": 0,
+                    "talents": 0,
+                    "career": 0,
+                    "advance": 0,
+                    "modifier" : 0, 
+                    "current": 0
+                },
+                "int":
+                {
+                    "type": "number",
+                    "label": "mainProfile.INT",
+                    "starting": 0,
+                    "talents": 0,
+                    "career": 0,
+                    "advance": 0,
+                    "modifier" : 0, 
+                    "current": 0
+                },
+                "wp":
+                {
+                    "type": "number",
+                    "label": "mainProfile.WP",
+                    "starting": 0,
+                    "talents": 0,
+                    "career": 0,
+                    "advance": 0,
+                    "modifier" : 0, 
+                    "current": 0
+                },
+                "fel":
+                {
+                    "type": "number",
+                    "label": "mainProfile.FEL",
+                    "starting": 0,
+                    "talents": 0,
+                    "career": 0,
+                    "advance": 0,
+                    "modifier" : 0, 
+                    "current": 0
+                }
+            },
+            "secondaryProfile":
+            {
+                "a":
+                {
+                    "type": "number",
+                    "label": "secondaryProfile.A",
+                    "starting": 0,
+                    "talents": 0,
+                    "career": 0,
+                    "advance": 0,
+                    "modifier" : 0, 
+                    "current": 0
+                },
+                "w":
+                {
+                    "type": "number",
+                    "label": "secondaryProfile.W",
+                    "starting": 0,
+                    "talents": 0,
+                    "career": 0,
+                    "advance": 0,
+                    "modifier" : 0, 
+                    "current": 0
+                },
+                "sb":
+                {
+                    "type": "number",
+                    "label": "secondaryProfile.SB",
+                    "starting": 0,
+                    "talents": 0,
+                    "career": 0,
+                    "advance": 0,
+                    "modifier" : 0, 
+                    "current": 0
+                },
+                "tb":
+                {
+                    "type": "number",
+                    "label": "secondaryProfile.TB",
+                    "starting": 0,
+                    "talents": 0,
+                    "career": 0,
+                    "advance": 0,
+                    "modifier" : 0, 
+                    "current": 0
+                },
+                "m":
+                {
+                    "type": "number",
+                    "label": "secondaryProfile.M",
+                    "starting": 0,
+                    "talents": 0,
+                    "career": 0,
+                    "advance": 0,
+                    "modifier" : 0, 
+                    "current": 0
+                },
+                "mag":
+                {
+                    "type": "number",
+                    "label": "secondaryProfile.MAG",
+                    "starting": 0,
+                    "talents": 0,
+                    "career": 0,
+                    "advance": 0,
+                    "modifier" : 0, 
+                    "current": 0
+                },
+                "ip":
+                {
+                    "type": "number",
+                    "label": "secondaryProfile.IP",
+                    "starting": 0,
+                    "talents": 0,
+                    "career": 0,
+                    "advance": 0,
+                    "modifier" : 0, 
+                    "current": 0
+                },
+                "fp":
+                {
+                    "type": "number",
+                    "label": "secondaryProfile.FP",
+                    "starting": 0,
+                    "talents": 0,
+                    "career": 0,
+                    "advance": 0,
+                    "modifier" : 0, 
+                    "current": 0
+                }
+            },
+            "details":
+            {
+            }
+        }
+    },
+    "Item": 
+    {
+        "types":
+        [
+            "weapon"
+        ],
+        "weapon":
+        {
+            "templates":
+            [
+                "description",
+                "craft",
+                "encumbrance"
+            ]
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "name": "warhammer2e",
+    "title": "Warhammer 2e",
+    "description": "A system for playing Warhammer 2e games",
+    "author": "Teodor",
+    "version": 1.00,
+    "minimumCoreVersion": "0.7.9",
+    "compatibleCoreVersion": "0.7.9",
+    "esmodules": [
+        "warhammer2e.js"
+    ],
+    "styles": [
+        "warhammer2e.css"
+    ],
+    "packs": [
+    
+    ],
+    "languages": [
+    
+    ],
+    "media": [
+        {
+          "type": "cover",
+          "url": "https://www.tomshw.it/images/images/2020/06/warhammer-fantasy-roleplay-starter-set-101247.768x432.jpg"
+        }
+      ],
+    "gridDistance": 2,
+    "gridUnits": "yards",
+    "primaryTokenAttribute": "wounds",
+    "initiative": "2d10 + @agility"
+}
